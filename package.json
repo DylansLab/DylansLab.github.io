@@ -2,7 +2,7 @@
   "name": "react-resume-template",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://DylansLab.github.io/",
+  "homepage": "https://github.com/DylansLab/DylansLab.github.io",
   "scripts": {
     "build": "yarn compile && yarn next build",
     "clean": "rm -rf build-tsc .next",
