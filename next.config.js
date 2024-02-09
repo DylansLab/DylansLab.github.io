@@ -34,6 +34,7 @@ const nextConfig = {
         hostname: 'source.unsplash.com',
       },
     ],
+    unoptimized: true
   },
 };
 

@@ -103,9 +103,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `Use this bio section as your way of describing yourself and saying what you do, what technologies you like
-  to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
-  in.`,
+  description: `Web development and DevOps professional skilled in full-stack development, including front-end and back-end technologies. Experienced in designing and maintaining web applications. Proficient in optimizing DevOps practices, specifically continuous integration and deployment pipelines.`,
   aboutItems: [
     {label: 'Location', text: 'Bay Area, CA', Icon: MapIcon},
     {label: 'Age', text: '28', Icon: CalendarIcon},
@@ -273,19 +271,19 @@ export const experience: TimelineItem[] = [
     content: (
       <ul>
         <li>
-          •Contributed to the development of React-based web applications, delivering modern and scalable user
+          Contributed to the development of React-based web applications, delivering modern and scalable user
           interfaces.
         </li>
         <li>
-          •Utilized various GCP services, Cloud Storage, App Engine, and Workflows to deploy and manage scalable
+          Utilized various GCP services, Cloud Storage, App Engine, and Workflows to deploy and manage scalable
           applications.
         </li>
-        <li>•Designed and developed RESTful APIs for communication between front-end and back-end components.</li>
+        <li>Designed and developed RESTful APIs for communication between front-end and back-end components.</li>
         <li>
-          •Implemented CI/CD pipelines using tools like Jenkins and GitLab CI to automate testing and deployment
+          Implemented CI/CD pipelines using tools like Jenkins and GitLab CI to automate testing and deployment
           processes.
         </li>
-        <li>•Integrated automated testing suites to ensure code quality and reliability.</li>
+        <li>Integrated automated testing suites to ensure code quality and reliability.</li>
       </ul>
     ),
   },
@@ -296,27 +294,27 @@ export const experience: TimelineItem[] = [
     content: (
       <ul>
         <li>
-          •Established and maintained Infrastructure as Code practices using Terraform to ensure scalability and
+          Established and maintained Infrastructure as Code practices using Terraform to ensure scalability and
           consistency.
         </li>
-        <li>•Created Bitbucket Pipelines to automate testing, build, and deployment processes.</li>
-        <li>•Deployed Docker containers using AWS ECS to fulfill pipeline builds and deploys.</li>
+        <li>Created Bitbucket Pipelines to automate testing, build, and deployment processes.</li>
+        <li>Deployed Docker containers using AWS ECS to fulfill pipeline builds and deploys.</li>
         <li>
-          •Implemented New Relic monitoring into several applications to ensure system reliability and performance.
+          Implemented New Relic monitoring into several applications to ensure system reliability and performance.
         </li>
         <li>
-          •Worked with AWS to deploy and manage infrastructure and optimized costs by implementing cost allocation
+          Worked with AWS to deploy and manage infrastructure and optimized costs by implementing cost allocation
           tagging.
         </li>
         <li>
-          •Maintained comprehensive documentation for infrastructure configurations, processes, and best practices.
+          Maintained comprehensive documentation for infrastructure configurations, processes, and best practices.
         </li>
         <li>
-          •Utilized Git as well as Bitbucket for version control, ensuring code collaboration and tracking changes
+          Utilized Git as well as Bitbucket for version control, ensuring code collaboration and tracking changes
           effectively.
         </li>
         <li>
-          •Worked on end-to-end development, handling both front-end and back-end components to deliver complete web
+          Worked on end-to-end development, handling both front-end and back-end components to deliver complete web
           solutions.
         </li>
       </ul>
