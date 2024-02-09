@@ -74,8 +74,7 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm a <strong className="text-stone-100">Full Stack Software Engineer</strong> based in the Bay Area, currently
-        working at <strong className="text-stone-100">Carson Group</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+        working at <strong className="text-stone-100">Carson Group</strong> helping to develop application functionality and maintain infrastructure.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can find me <strong className="text-stone-100">trying new foods</strong>, sewing up{' '}
@@ -86,7 +85,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: '../assets/dylan_nguyen_resume.pdf',
+      href: '../assets/dylan-nguyen-resume.pdf',
       text: 'Resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
