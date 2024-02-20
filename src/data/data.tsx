@@ -79,7 +79,7 @@ export const heroData: Hero = {
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can find me <strong className="text-stone-100">trying new foods</strong>, sewing up{' '}
         <strong className="text-stone-100">clothes or bags</strong>, or attending a{' '}
-        <strong className="text-stone-100">musical performance</strong>.
+        <strong className="text-stone-100">musical or stand up performance</strong>.
       </p>
     </>
   ),
@@ -151,7 +151,7 @@ export const skills: SkillGroup[] = [
         level: 6,
       },
       {
-        name: 'Golang',
+        name: 'Java',
         level: 3,
       },
     ],
@@ -168,7 +168,7 @@ export const skills: SkillGroup[] = [
         level: 7,
       },
       {
-        name: 'Monitoring and logging tools',
+        name: 'Monitoring and Logging',
         level: 4,
       },
       {
